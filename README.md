@@ -13,8 +13,6 @@ Im currently learning Node Js <br>I am a computer science student
 ![](https://github-readme-streak-stats.herokuapp.com/?user=cyriljohn147&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cyriljohn147&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=cyriljohn147&icon=0&color=0)](https://visitcount.itsvg.in)
